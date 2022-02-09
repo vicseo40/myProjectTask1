@@ -1,0 +1,84 @@
+body{
+    background-color: #A7BBC7;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'Rowdies', cursive;
+}
+
+h2{
+    font-family: 'Syne Tactile', cursive;
+}
+
+#vector{
+    padding-bottom: 10px;
+}
+
+
+.table{
+    background-color: #FAF3F3;
+    border-radius: 1%;
+    padding: 15px 20px;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+table, th, td{
+    text-align: center;
+    border: 1px solid black;
+}
+
+th{
+    background-color: #e7aab5;
+    height: 2.5em;
+}
+
+td{
+    padding: 0.5em;
+}
+
+caption{
+    color: brown;
+    font-size: 1.1em;
+    font-family:'Rowdies', cursive;
+    padding-bottom: 0.6em;
+}
+
+img{
+    width: 20em;
+    height: 12em;
+    border-radius: 5px;
+}
+audio{
+    border: 1px solid #A7BBC7;
+    border-radius: 15px 90px 90px 15px;
+}
+
+video{
+    width: 20em;
+    height: 12em;
+}
+
+.artist{
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(49, 122, 218);
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(255, 0, 64);
+}
